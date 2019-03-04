@@ -26,8 +26,8 @@ function dec(a) {
   return a;
 }
 
-function makeInt(a, base) {
-  var parsed = parseInt(a, base);
+function makeInt(a, 10{
+  var parsed = parseInt('a', 10);
   return parsed;
 
 }
