@@ -27,8 +27,8 @@ function dec(a) {
 }
 
 function makeInt(a, base) {
-    let parsed = parseInt(a, base);
-  return parsed;
+    return parseInt(a, base);
+  
 
 }
 
